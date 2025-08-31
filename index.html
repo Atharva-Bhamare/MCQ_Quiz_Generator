@@ -331,8 +331,15 @@ ${notes}`;
                     throw new Error('No content returned from the model.');
                 }
                 
-                const jsonText = candidate.content.parts[0].text;
-                const questions = JSON.parse(jsonText);
+                let questions;
+                try {
+                    const jsonText = candidate.content.parts[0].text;
+                    questions = JSON.parse(jsonText);
+                } catch (jsonError) {
+                    console.error("Failed to parse JSON:", jsonError);
+                    console.error("Raw JSON text:", candidate.content.parts[0].text);
+                    throw new Error("Failed to parse the quiz data. Please try again with different notes.");
+                }
 
                 questions.forEach((q, index) => {
                     const questionCard = document.createElement('div');
