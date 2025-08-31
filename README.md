@@ -1,6 +1,7 @@
 MCQ Quiz Creator from Notes
 
 Project Description:
+
 This is a web application that generates multiple-choice questions (MCQs) from any text or notes you provide.
 It's a perfect tool for students, educators, and lifelong learners who want to create quick, custom quizzes for self-study and practice tests.
 
@@ -21,15 +22,16 @@ How to Use
   5. Start Over: Click the "Clear All" button to clear the current quiz and generate a new one from different notes.
 
 Local Development:
+
 If you want to run this project on your local machine, follow these steps:
 
 1. Clone the repository:
 
-git clone [https://github.com/Atharva-Bhamare/MCQ_Quiz_Generator.git](https://github.com/Atharva-Bhamare/MCQ_Quiz_Generator.git)
+   git clone [https://github.com/Atharva-Bhamare/MCQ_Quiz_Generator.git](https://github.com/Atharva-Bhamare/MCQ_Quiz_Generator.git)
 
 2. Navigate to the project directory:
 
-cd MCQ_Quiz_Generator
+   cd MCQ_Quiz_Generator
 
 3. Open the file: Open the index.html file in your web browser. You can do this by right-clicking the file and selecting "Open with..." your browser of choice.
 
