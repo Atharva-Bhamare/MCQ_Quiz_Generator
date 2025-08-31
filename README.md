@@ -7,11 +7,11 @@ It's a perfect tool for students, educators, and lifelong learners who want to c
 The app uses the Gemini API to analyze the notes and generate a set of questions, options, and correct answers. It features a clean and simple user interface for a smooth experience.
 
 Key Features:
-  --> AI-Powered Question Generation: Simply paste your notes into the text area, and the app will generate a quiz on the fly.
-  --> Real-time Interaction: The questions and answers are displayed instantly, allowing for an immediate study session.
-  --> Correct/Incorrect Feedback: The app provides immediate feedback on your selected answers, highlighting the correct option.
-  --> In-depth Explanations: Get a detailed, AI-generated explanation for the correct answer after you've made a choice.
-  --> Minimalist Design: A clean, easy-to-use interface with all the features on a single page.
+  1. AI-Powered Question Generation: Simply paste your notes into the text area, and the app will generate a quiz on the fly.
+  2. Real-time Interaction: The questions and answers are displayed instantly, allowing for an immediate study session.
+  3. Correct/Incorrect Feedback: The app provides immediate feedback on your selected answers, highlighting the correct option.
+  4. In-depth Explanations: Get a detailed, AI-generated explanation for the correct answer after you've made a choice.
+  5. Minimalist Design: A clean, easy-to-use interface with all the features on a single page.
 
 How to Use
   1. Paste Your Notes: In the main text area, paste the notes, article, or any block of text you want to create a quiz from.
